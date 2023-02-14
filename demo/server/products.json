@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "B",
+      "price": 2234
+    },
+    {
+      "name": "C",
+      "price": "5678",
+      "id": 3
+    },
+    {
+      "name": "a",
+      "price": "12",
+      "id": 5
+    },
+    {
+      "name": "maggi",
+      "price": "20",
+      "id": 6
+    },
+    {
+      "name": "colddrink",
+      "price": "20",
+      "id": 7
+    }
+  ]
+}
